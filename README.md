@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋，I’m Swordfish，a Java backend-developer
+🔭 I’m currently working on Java 
+🌱 I’m currently learning Netty,Vue,Nginx...
+
 
 <!--
 **SwordfishAgent777/SwordfishAgent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
